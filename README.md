@@ -1,6 +1,6 @@
 # National Parks Data Lab
 
-A JavaScript data lab built for the National Park Service. Covers arrays, objects and combined data structures displayed on a pre-built dashboard.
+A JavaScript data lab built for the National Park Service. Covers arrays, objects, and combined data structures displayed on a pre-built dashboard.
 
 ---
 
@@ -19,11 +19,8 @@ A JavaScript data lab built for the National Park Service. Covers arrays, object
 
 ---
 
-## Installation
+## How to Run
 
 ```bash
-git clone https://github.com/awbuild/js-mini-tasks_arrays-objects
-cd js-mini-tasks_arrays-objects
+open index.html
 ```
-
-Open `index.html` in your browser.
