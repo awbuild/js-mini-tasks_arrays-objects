@@ -21,6 +21,4 @@ A JavaScript data lab built for the National Park Service. Covers arrays, object
 
 ## How to Run
 
-```bash
-open index.html
-```
+Open index.html in your browser.
